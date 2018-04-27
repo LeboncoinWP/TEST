@@ -19,4 +19,4 @@ post_date: 2018-04-27 11:08:52
 
 <a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_2.png"><img class="aligncenter size-full wp-image-402" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_2.png" alt="" width="1598" height="308" /></a>
 
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi.png">[maxbutton id="5" text="Repli Crédits" ] </a>  [maxbutton id="2" url="http://192.168.188.240/WP/modalite-signature-elec/" text="Modalités Accord Electronique" ]
+&nbsp;
