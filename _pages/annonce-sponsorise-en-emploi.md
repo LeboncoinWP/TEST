@@ -1,6 +1,6 @@
 ---
 ID: 351
-post_title: Annonce Sponsorisé En Emploi
+post_title: Annonce Sponsorisé
 author: admin
 post_excerpt: ""
 layout: page
@@ -9,4 +9,8 @@ permalink: >
 published: true
 post_date: 2018-04-27 11:08:52
 ---
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi.png"><img class="aligncenter size-full wp-image-365" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi.png" alt="" width="1596" height="836" />[maxbutton id="5" url="http://192.168.188.240/WP/repli_upsell-credits/" text="Repli Crédits" ] </a>  [maxbutton id="2" url="http://192.168.188.240/WP/modalite-signature-elec/" text="Modalités Accord Electronique" ]  [maxbutton id="4" text="Accès Vitiger" ]
+<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi-1.png"><img class="aligncenter size-full wp-image-399" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi-1.png" alt="" width="1595" height="525" /></a>
+
+&nbsp;
+
+<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Ann_spon_emploi.png">[maxbutton id="5" text="Repli Crédits" ] </a>  [maxbutton id="2" url="http://192.168.188.240/WP/modalite-signature-elec/" text="Modalités Accord Electronique" ]  [maxbutton id="4" text="Accès Vitiger" ]
