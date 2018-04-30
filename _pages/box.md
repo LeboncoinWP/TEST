@@ -8,8 +8,6 @@ permalink: http://192.168.188.240/WP/box/
 published: true
 post_date: 2018-04-27 11:09:39
 ---
-c'est une copie de prod !!
-
 <a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Box.png"><img class="aligncenter size-full wp-image-404" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Box.png" alt="" width="1599" height="475" /></a>
 
 <span style="background-color: #00ffff;"><strong><span style="font-size: 18pt; background-color: #00ffff;">--Emploi:</span></strong></span>
