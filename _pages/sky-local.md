@@ -48,7 +48,6 @@ post_date: 2018-04-27 11:11:46
  	<li>Audience de 26M de visiteurs unique chaque mois, + 1 internaute sur 2.</li>
  	<li>100% intentionniste d’achat (vont sur le site pour rechercher et acheter un bien/service) =&gt; donc 100% acheteurs</li>
  	<li><b>Un ciblage précis pour toucher vos acheteurs </b>puisque toutes les recherches sur le site se font par catégorie et par département, donc sur votre zone de chalandise</li>
- 	<li></li>
 </ul>
 <span style="color: #0000ff;"><strong><span style="text-decoration: underline;">Annonce du tarif:</span></strong></span>
 <ul>
@@ -56,6 +55,5 @@ post_date: 2018-04-27 11:11:46
  	<li>Explication de la facturation au réel.</li>
  	<li>Montant HT de la campagne.</li>
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création Offerte pour un format Premium</b></li>
- 	<li></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
