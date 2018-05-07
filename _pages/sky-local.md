@@ -32,7 +32,7 @@ post_date: 2018-04-27 11:11:46
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création Offerte pour un format Premium</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
-
+<p style="text-align: right;">[maxbutton id="3" url="http://192.168.191.55/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
 &nbsp;
 
 &nbsp;
