@@ -5,26 +5,35 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://192.168.188.240/WP/modalites-techniques/
+  http://192.168.191.55/modalites-techniques/
 published: true
 post_date: 2018-04-27 14:34:46
 ---
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_1.png"><img id="mod1" class="aligncenter size-full wp-image-421" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_1.png" alt="" width="591" height="747" /></a>
+<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Modalités Techniques PUB</span></p>
+&nbsp;
+
+<span id="box" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Box:</b></span>
+
+<a href="/wp-content/uploads/2018/05/mod_box.png"><img class="aligncenter size-full wp-image-509" src="/wp-content/uploads/2018/05/mod_box.png" alt="" width="491" height="614" /></a>
+
+<span id="as" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Annonce Sponsorisée:</b></span>
+
+<a href="/wp-content/uploads/2018/05/mod_as.png"><img class="aligncenter size-full wp-image-510" src="/wp-content/uploads/2018/05/mod_as.png" alt="" width="553" height="536" /></a>
 
 &nbsp;
 
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_2.png"><img id="mod2" class="aligncenter size-full wp-image-422" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_2.png" alt="" width="667" height="649" /></a>
+<span id="pave" style="color: #ff6600; font-size: 14pt;"><b>Modalités Pavé:</b></span>
+
+<a href="/wp-content/uploads/2018/05/mod_pave.png"><img class="aligncenter size-full wp-image-511" src="/wp-content/uploads/2018/05/mod_pave.png" alt="" width="551" height="769" /></a>
 
 &nbsp;
 
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_3.png"><img id="mod3" class="aligncenter size-full wp-image-423" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_3.png" alt="" width="660" height="913" /></a>
+<span id="banniere" style="color: #ff6600; font-size: 14pt;"><strong>Modalités Techniques Bannière:</strong></span>
+
+<a href="/wp-content/uploads/2018/05/mod_bann.png"><img class="aligncenter size-full wp-image-512" src="/wp-content/uploads/2018/05/mod_bann.png" alt="" width="554" height="765" /></a>
 
 &nbsp;
 
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_4.png"><img id="mod4" class="aligncenter size-full wp-image-424" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_4.png" alt="" width="660" height="912" /></a>
+<strong><span id="sky" style="color: #ff6600; font-size: 14pt;">Modalités Sky Local:</span></strong>
 
-&nbsp;
-
-&nbsp;
-
-<a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_5.png"><img id="mod5" class="aligncenter size-full wp-image-425" src="http://192.168.188.240/WP/wp-content/uploads/2018/04/Modal_5.png" alt="" width="783" height="1023" /></a>
+<a href="/wp-content/uploads/2018/05/mod_sky.png"><img class="aligncenter size-full wp-image-513" src="/wp-content/uploads/2018/05/mod_sky.png" alt="" width="653" height="857" /></a>
