@@ -17,6 +17,8 @@ post_date: 2018-04-27 11:08:52
 
 <a href="/wp-content/uploads/2018/05/Ann_Spo_Emp1.png"><img class="aligncenter size-full wp-image-475" src="/wp-content/uploads/2018/05/Ann_Spo_Emp1.png" alt="" width="1598" height="522" /></a>
 
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#as" text="Modalités techniques" ]
+
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
  	<li><b>3,1M de VU* catégorie Emploi =&gt; </b>Nombre de candidats en recherche active sur le site en hausse. <i>(*source Médiamétrie)</i></li>
