@@ -15,6 +15,8 @@ post_date: 2018-04-27 11:09:39
 
 <a href="/wp-content/uploads/2018/05/Box1.png"><img class="aligncenter size-full wp-image-481" src="/wp-content/uploads/2018/05/Box1.png" alt="" width="1596" height="475" /></a>
 
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#box" text="Modalités techniques" ]
+
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
  	<li><b>3,1M de VU* catégorie Emploi =&gt; </b>Nombre de candidats en recherche active sur le site en hausse. <i>(*source Médiamétrie)</i></li>
@@ -42,6 +44,8 @@ post_date: 2018-04-27 11:09:39
 <span style="color: #ff6600;"><b><i>Comme vous avez pour objectif de communication</i></b></span>
 
 <a href="/wp-content/uploads/2018/05/Box_bus1.png"><img class="aligncenter size-full wp-image-482" src="/wp-content/uploads/2018/05/Box_bus1.png" alt="" width="1593" height="455" /></a>
+
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#box" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
