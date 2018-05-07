@@ -1,6 +1,6 @@
 ---
 ID: 380
-post_title: Sky Local En Emploi
+post_title: Sky Local
 author: admin
 post_excerpt: ""
 layout: page
@@ -15,6 +15,8 @@ post_date: 2018-04-27 11:11:46
 <span style="color: #ff6600;"><b><i>Comme vous avez besoin de travailler votre marque employeur et d’être ultra visible avec une position premium</i></b></span>
 
 <a href="/wp-content/uploads/2018/05/sky1.png"><img class="aligncenter size-full wp-image-495" src="/wp-content/uploads/2018/05/sky1.png" alt="" width="1593" height="486" /></a>
+
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#sky" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
@@ -42,6 +44,8 @@ post_date: 2018-04-27 11:11:46
 <span style="color: #ff6600;"><b><i>Comme vous avez besoin de travailler votre notoriété et d’être ultra visible avec une position premium</i></b></span>
 
 <a href="/wp-content/uploads/2018/05/sky_bus1.png"><img class="aligncenter size-full wp-image-496" src="/wp-content/uploads/2018/05/sky_bus1.png" alt="" width="1571" height="453" /></a>
+
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#sky" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
