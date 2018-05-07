@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-04-27 11:08:52
 ---
-<a href="http://192.168.191.55/WP/wp-content/uploads/2018/04/Ann_spon_emploi-1.png"><img class="aligncenter size-full wp-image-399" src="http://192.168.191.55/WP/wp-content/uploads/2018/04/Ann_spon_emploi-1.png" alt="" width="1595" height="525" /></a>
+<a href="http://192.168.191.55/wp-content/uploads/2018/04/Ann_spon_emploi-1.png"><img class="aligncenter size-full wp-image-399" src="http://192.168.191.55/wp-content/uploads/2018/04/Ann_spon_emploi-1.png" alt="" width="1595" height="525" /></a>
 
 <span style="font-size: 18pt; background-color: #00ffff;"><strong>-- Emploi:</strong></span>
 
