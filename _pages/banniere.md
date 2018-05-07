@@ -15,6 +15,8 @@ post_date: 2018-04-27 11:11:10
 
 <a href="/wp-content/uploads/2018/05/Bann1.png"><img class="aligncenter size-full wp-image-491" src="/wp-content/uploads/2018/05/Bann1.png" alt="" width="1594" height="481" /></a>
 
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#banniere" text="Modalités techniques" ]
+
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
  	<li><b>3,1M de VU* catégorie Emploi =&gt; </b>Nombre de candidats en recherche active sur le site en hausse. <i>(*source Médiamétrie)</i></li>
@@ -43,6 +45,8 @@ post_date: 2018-04-27 11:11:10
 <span style="color: #ff6600;"><b><i>Comme vous avez besoin de communiquer au niveau local</i></b></span>
 
 <a href="/wp-content/uploads/2018/05/bann_bus1.png"><img class="aligncenter size-full wp-image-492" src="/wp-content/uploads/2018/05/bann_bus1.png" alt="" width="1595" height="457" /></a>
+
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#banniere" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
