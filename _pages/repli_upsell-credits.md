@@ -28,4 +28,4 @@ post_date: 2018-04-27 12:12:12
  	<li><span style="color: #3366ff;"><b>DB7 / DB30 </b>=</span> Profil facile à recruter. <span style="color: #3366ff;"><b>DB7</b> =</span> gros flux de CV sur du court terme, besoin urgent. <span style="color: #3366ff;"><b>DB30</b> =</span> idem besoin moins urgent. Création de vivier de CV.</li>
  	<li><span style="color: #3366ff;"><b>WB </b>=</span> Profil délicat à recruter ou spécifique</li>
 </ul>
-<span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
+<span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  Nous mettons en place ce dispositif à partir du mois prochain?</i></b></span>
