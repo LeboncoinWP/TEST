@@ -27,6 +27,6 @@ post_date: 2018-05-07 13:55:43
  	<li>Prix à l’annonce en HT. <b><i>« </i></b><b><i>1 jeton = 1 offre d’emploi en ligne pour 2,5€/J (hors remise) ».</i></b></li>
  	<li>Montant HT du pack.</li>
  	<li>Négo PAE payable en plusieurs fois <b>(x2, x3) </b>à partir du <b>PAE 15.</b></li>
- 	<li><b> </b><b><span style="color: #ff0000;">Positiver prix</span> =&gt; Page Employeur toujours offerte (Valeur 753 € HT).</b></li>
+ 	<li><b> </b><b><span style="color: #ff0000;">Positiver prix =&gt; Page Employeur toujours offerte (Valeur 753 € HT)</span>.</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Pour multiplier vos apports en CV, vous pouvez agir sur la position de vos offres d’emploi dans le listing en utilisant des remontées en tête de liste, vous connaissez le principe ?</i></b></span>
