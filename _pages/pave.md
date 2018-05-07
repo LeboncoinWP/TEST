@@ -15,6 +15,8 @@ post_date: 2018-04-27 11:10:16
 
 <a href="http://192.168.191.55/wp-content/uploads/2018/05/pave1.png"><img class="aligncenter size-full wp-image-486" src="http://192.168.191.55/wp-content/uploads/2018/05/pave1.png" alt="" width="1592" height="446" /></a>
 
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#pave" text="Modalités techniques" ]
+
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
  	<li><b>3,1M de VU* catégorie Emploi =&gt; </b>Nombre de candidats en recherche active sur le site en hausse. <i>(*source Médiamétrie)</i></li>
@@ -41,6 +43,8 @@ post_date: 2018-04-27 11:10:16
 <span style="color: #ff6600;"><i><b style="color: #ff6600;">Comme vous avez besoin de travailler votre </b><span style="color: #ff6600;"><b>événement</b></span><b style="color: #ff6600;">, déstockage, enseigne sur du court terme</b></i></span>
 
 <a href="/wp-content/uploads/2018/05/pave_bus1.png"><img class="aligncenter size-full wp-image-487" src="/wp-content/uploads/2018/05/pave_bus1.png" alt="" width="1586" height="494" /></a>
+
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#pave" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
