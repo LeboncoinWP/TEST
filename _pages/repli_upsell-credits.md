@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://192.168.191.55/repli_upsell-credits/
+  http://cms1.leboncoin.loc/repli_upsell-credits/
 published: true
 post_date: 2018-04-27 12:12:12
 ---
@@ -29,4 +29,4 @@ post_date: 2018-04-27 12:12:12
  	<li><span style="color: #3366ff;"><b>WB </b>=</span> Profil délicat à recruter ou spécifique</li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  Nous mettons en place ce dispositif à partir du mois prochain?</i></b></span>
-<p style="text-align: right;">[maxbutton id="3" url="http://192.168.191.55/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
+<p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
