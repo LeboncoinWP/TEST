@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://192.168.191.55/2018/05/07/modalites-classiques-pave-banniere-sky-local/
+  http://192.168.191.55/2018/05/07/modalites-classiques-pave-banniere-sky/
 published: true
 post_date: 2018-05-07 14:30:50
 ---
@@ -40,6 +40,6 @@ Pour information et pour ce montant, le paiement s’effectue normalement par vi
 Dans tous les cas, si le prélèvement automatique n’est pas possible, je leur demanderai la possibilité de mettre en place un virement permanent mensuel. C’est la même chose que le prélèvement automatique, sauf que vous payez en amont de l’envoi de flux, avant tous les 20 du mois. Donc sur ce sujet, je vous rappelle au plus tard sous 48 heures.</blockquote>
 <b><span style="color: #0000ff;">6)</span> </b><b>Présenter les spécificités techniques</b>
 
-&nbsp;
+[maxbutton id="3" url="http://192.168.191.55/modalites-techniques/#pave" text="Modalités techniques Pavé" ] [maxbutton id="3" url="http://192.168.191.55/modalites-techniques/#banniere" text="Modalités techniques Bannière" ] [maxbutton id="3" url="http://192.168.191.55/modalites-techniques/#sky" text="Modalités techniques Sky Local" ]
 
 <b><span style="color: #0000ff;">7)</span> </b><b>Closing</b>
