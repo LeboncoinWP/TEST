@@ -32,7 +32,7 @@ post_date: 2018-04-27 11:08:52
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création gratuite + Modifiable</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
-<p style="text-align: right;"><a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Box_1.png">[maxbutton id="5" url=" http://192.168.191.55/repli_upsell-credits/" text="Repli Crédits" ] </a>  [maxbutton id="5" url = "http://192.168.191.55/modalite-signature-elec/" text="Accord Elec" ]</p>
+<p style="text-align: right;">[maxbutton id="5" url="http://192.168.191.55/repli_upsell-credits/" text="Repli Crédits" ] [maxbutton id="5" url="http://192.168.191.55/modalite-signature-elec/" text="Modalités Accord" ]</p>
 &nbsp;
 
 &nbsp;
