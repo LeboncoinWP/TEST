@@ -45,6 +45,8 @@ post_date: 2018-04-27 11:08:52
 
 <a href="/wp-content/uploads/2018/05/Ann_Spo_Emp_bis1.png"><img class="aligncenter size-full wp-image-476" src="/wp-content/uploads/2018/05/Ann_Spo_Emp_bis1.png" alt="" width="1594" height="490" /></a>
 
+[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#as" text="Modalités techniques" ]
+
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
  	<li>Audience de 26M de visiteurs unique chaque mois, + 1 internaute sur 2.</li>
