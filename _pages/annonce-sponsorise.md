@@ -17,7 +17,19 @@ post_date: 2018-04-27 11:08:52
 
 <a href="/wp-content/uploads/2018/05/Ann_Spo_Emp1.png"><img class="aligncenter size-full wp-image-475" src="/wp-content/uploads/2018/05/Ann_Spo_Emp1.png" alt="" width="1598" height="522" /></a>
 
-<a href="http://192.168.191.55/wp-content/uploads/2018/04/Ann_spon_1.png"><img class="aligncenter size-full wp-image-401" src="http://192.168.191.55/wp-content/uploads/2018/04/Ann_spon_1.png" alt="" width="1597" height="278" /></a>
+<span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
+<ul>
+ 	<li><b>3,1M de VU* catégorie Emploi =&gt; </b>Nombre de candidats en recherche active sur le site en hausse. <i>(*source Médiamétrie)</i></li>
+ 	<li><b>2M de candidats exclusifs en Emploi </b>=&gt; toucher des profils qui sont QUE sur Leboncoin.</li>
+ 	<li><b>70% d’audience du site sur mobile =&gt; </b>Nouveauté 2018 =&gt; Postuler depuis son application mobile = encore + de candidatures.</li>
+</ul>
+<span style="color: #0000ff;"><strong><span style="text-decoration: underline;">Annonce du tarif:</span></strong></span>
+<ul>
+ 	<li>Prix mensuel</li>
+ 	<li>Prix au <b>CPM</b> + Volume d’affichage garantie</li>
+ 	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création gratuite + Modifiable</b></li>
+</ul>
+<span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
 <p style="text-align: right;"><a href="http://192.168.188.240/WP/wp-content/uploads/2018/04/Box_1.png">[maxbutton id="5" url=" http://192.168.191.55/repli_upsell-credits/" text="Repli Crédits" ] </a>  [maxbutton id="5" url = "http://192.168.191.55/modalite-signature-elec/" text="Accord Elec" ]</p>
 &nbsp;
 
