@@ -10,7 +10,7 @@ published: true
 post_date: 2018-04-27 11:08:52
 ---
 &nbsp;
-<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;"><b>L’Annonce Sponsorisé en Emploi (</b><b>profil actif employé/ cat emploi)</b></span></p>
+<p id= "ann_spo" style="text-align: center;"><span style="font-size: 24pt; color: #333399;"><b>L’Annonce Sponsorisé en Emploi (</b><b>profil actif employé/ cat emploi)</b></span></p>
 &nbsp;
 
 <span style="font-size: 14pt; color: #ff6600;">Comme vous avez plusieurs postes / profils qualifiés/ cadres + employés /  à recruter en besoins étalés dans la durée</span>
@@ -24,7 +24,7 @@ post_date: 2018-04-27 11:08:52
 &nbsp;
 
 &nbsp;
-<p style="text-align: center;"><b><span style="font-size: 24pt; color: #333399;">L’Annonce Sponsorisé</span></b></p>
+<p id= "ann_spo_bus" style="text-align: center;"><b><span style="font-size: 24pt; color: #333399;">L’Annonce Sponsorisé</span></b></p>
 &nbsp;
 
 <span style="color: #ff6600; font-size: 14pt;"><b><i>Comme vous avez pour objectif de communication</i></b></span>
