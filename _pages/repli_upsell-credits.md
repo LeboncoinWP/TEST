@@ -9,5 +9,5 @@ permalink: >
 published: true
 post_date: 2018-04-27 12:12:12
 ---
-<a href="~/wp-content/uploads/2018/04/Repli_Upsell_credit.gif"><img class="aligncenter size-full wp-image-415" src="http://192.168.191.55/wp-content/uploads/2018/04/Repli_Upsell_credit.gif" alt="" width="1601" height="852" /></a>
-<p style="text-align: right;">[maxbutton id="2" url="http://192.168.191.55/modalites-accord-pae/" text="Modalités Accord Electronique PAE" ]</p>
+<a href="~/wp-content/uploads/2018/04/Repli_Upsell_credit.gif"><img class="aligncenter size-full wp-image-415" src="~/wp-content/uploads/2018/04/Repli_Upsell_credit.gif" alt="" width="1601" height="852" /></a>
+<p style="text-align: right;">[maxbutton id="2" url="~/modalites-accord-pae/" text="Modalités Accord Electronique PAE" ]</p>
