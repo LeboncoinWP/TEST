@@ -4,11 +4,11 @@ post_title: Pavé
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://192.168.191.55/pave-en-emploi/
+permalink: http://192.168.191.55/pave/
 published: true
 post_date: 2018-04-27 11:10:16
 ---
-<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Le Pavé en Emploi (profil cadre/autres cat)</span></p>
+<p id="pave" style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Le Pavé en Emploi (profil cadre/autres cat)</span></p>
 &nbsp;
 
 <span style="color: #ff6600;"><b><i>Comme vous avez besoin de travailler votre marque employeur ou de mener une campagne de recrutement sur du court terme</i></b></span>
@@ -35,7 +35,7 @@ post_date: 2018-04-27 11:10:16
 &nbsp;
 
 &nbsp;
-<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Le Pavé</span></p>
+<p id="pave_bus" style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Le Pavé</span></p>
 &nbsp;
 
 <span style="color: #ff6600;"><i><b style="color: #ff6600;">Comme vous avez besoin de travailler votre </b><span style="color: #ff6600;"><b>événement</b></span><b style="color: #ff6600;">, déstockage, enseigne sur du court terme</b></i></span>
