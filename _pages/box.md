@@ -8,7 +8,7 @@ permalink: http://192.168.191.55/box/
 published: true
 post_date: 2018-04-27 11:09:39
 ---
-<p id= "box" style="text-align: center;"><span style="font-size: 24pt; color: #333399;">La Box en Emploi ( repli budget bannière)</span></p>
+<p id="box" style="text-align: center;"><span style="font-size: 24pt; color: #333399;">La Box en Emploi ( repli budget bannière)</span></p>
 &nbsp;
 
 <span style="color: #ff6600;"><b><i>Comme vous avez 1 profil / poste qualifiés / cadres + employés /  à recruter sur la durée ou besoin de travailler votre réputation d’employeur</i></b></span>
@@ -28,6 +28,12 @@ post_date: 2018-04-27 11:09:39
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création gratuite + Modifiable</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 &nbsp;
 <p id="box_bus" style="text-align: center;"><span style="font-size: 24pt; color: #333399;">La Box</span></p>
