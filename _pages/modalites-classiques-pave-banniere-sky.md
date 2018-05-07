@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://192.168.191.55/modalites-classiques-pave-banniere-sky-local/
+  http://192.168.191.55/modalites-classiques-pave-banniere-sky/
 published: true
 post_date: 2018-05-07 15:03:56
 ---
