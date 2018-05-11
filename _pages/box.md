@@ -4,7 +4,7 @@ post_title: Box
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://192.168.114.108/cms/box/
+permalink: http://cms1-dev.leboncoin.loc/box/
 published: true
 post_date: 2018-04-27 11:09:39
 ---
@@ -13,9 +13,9 @@ post_date: 2018-04-27 11:09:39
 
 <span style="color: #ff6600;"><b><i>Comme vous avez 1 profil / poste qualifiés / cadres + employés /  à recruter sur la durée ou besoin de travailler votre réputation d’employeur</i></b></span>
 
-<a href="cms/wp-content/uploads/2018/05/Box1.png"><img class="aligncenter size-full wp-image-481" src="cms/wp-content/uploads/2018/05/Box1.png" alt="" width="1596" height="475" /></a>
+<a href="/wp-content/uploads/2018/05/Box1.png"><img class="aligncenter size-full wp-image-481" src="/wp-content/uploads/2018/05/Box1.png" alt="" width="1596" height="475" /></a>
 
-[maxbutton id="2" url="http://192.168.114.108/cms/modalites-techniques/#box" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1-dev.leboncoin.loc/modalites-techniques/#box" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
@@ -30,7 +30,7 @@ post_date: 2018-04-27 11:09:39
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Création gratuite + Modifiable</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
-<p style="text-align: right;">[maxbutton id="5" url="http://192.168.114.108/cms/banniere/" text="Bannière" ]  [maxbutton id="5" url="http://192.168.114.108/cms/repli_upsell-credits/" text="Repli Crédits" ] [maxbutton id="5" url="http://192.168.114.108/cms/modalite-signature-elec/" text="Modalités Accord" ]</p>
+<p style="text-align: right;">[maxbutton id="5" url="http://cms1-dev.leboncoin.loc/banniere/" text="Bannière" ]  [maxbutton id="5" url="http://cms1-dev.leboncoin.loc/repli_upsell-credits/" text="Repli Crédits" ]  [maxbutton id="5" url="http://cms1-dev.leboncoin.loc/modalite-signature-elec/" text="Modalités Accord" ]</p>
 &nbsp;
 
 &nbsp;
@@ -45,7 +45,7 @@ post_date: 2018-04-27 11:09:39
 
 <a href="/wp-content/uploads/2018/05/Box_bus1.png"><img class="aligncenter size-full wp-image-482" src="/wp-content/uploads/2018/05/Box_bus1.png" alt="" width="1593" height="455" /></a>
 
-[maxbutton id="2" url="http://192.168.114.108/cms/modalites-techniques/#box" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1-dev.leboncoin.loc/modalites-techniques/#box" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
