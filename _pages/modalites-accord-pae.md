@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://192.168.191.55/modalites-accord-pae/
+  http://cms1-dev.leboncoin.loc/modalites-accord-pae/
 published: true
 post_date: 2018-04-27 16:21:58
 ---
@@ -35,7 +35,7 @@ post_date: 2018-04-27 16:21:58
 
 « Le paiement s’effectuera donc par prélèvement unique avec un règlement à 30 jours suite à la réception de votre facture ».
 
-<u><b>Si commande &gt; à 2 000 euro :  </b></u>
+<span style="color: #ff6600;"><u><b>Si commande &gt; à 2 000 euro :  </b></u></span>
 
 « Pour information et pour ce montant, le paiement s’effectue normalement par virement unique. Je vais voir avec notre service comptabilité ce que nous pouvons faire.<b> Donc sur ce sujet, je vous rappelle au plus tard sous 48 heures. »</b>
 
