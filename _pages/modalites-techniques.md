@@ -14,7 +14,7 @@ post_date: 2018-04-27 14:34:46
 
 <span id="box" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Box:</b></span>
 
-<a href="/wp-content/uploads/2018/05/mod_box.png"><img class="size-full wp-image-509 aligncenter" src="/wp-content/uploads/2018/05/mod_box.png" alt="" width="491" height="614" display: block; /></a>
+<a href="/wp-content/uploads/2018/05/mod_box.png"><img class="size-full wp-image-509 aligncenter" src="/wp-content/uploads/2018/05/mod_box.png" alt="" width="491" height="614" margin: auto;display: block; /></a>
 
 <span id="as" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Annonce Sponsorisée:</b></span>
 
