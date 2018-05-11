@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://cms1-dev.leboncoin.loc/modalites-accord-pae/
+  http://cms1.leboncoin.loc/modalites-accord-pae/
 published: true
 post_date: 2018-04-27 16:21:58
 ---
