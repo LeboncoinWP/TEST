@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: page
 permalink: >
-  http://192.168.191.55/modalites-techniques/
+  http://cms1.leboncoin.loc/modalites-techniques/
 published: true
 post_date: 2018-04-27 14:34:46
 ---
@@ -14,7 +14,7 @@ post_date: 2018-04-27 14:34:46
 
 <span id="box" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Box:</b></span>
 
-<a href="/wp-content/uploads/2018/05/mod_box.png"><img class="aligncenter size-full wp-image-509" src="/wp-content/uploads/2018/05/mod_box.png" alt="" width="491" height="614" /></a>
+<a href="/wp-content/uploads/2018/05/mod_box.png"><img class="size-full wp-image-509 aligncenter" src="/wp-content/uploads/2018/05/mod_box.png" alt="" width="491" height="614" /></a>
 
 <span id="as" style="color: #ff6600; font-size: 14pt;"><b>Modalités Techniques Annonce Sponsorisée:</b></span>
 
