@@ -4,7 +4,7 @@ post_title: La PAE En Emploi
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://192.168.191.55/upsell_pae/
+permalink: http://cms1.leboncoin.loc/upsell_pae/
 published: true
 post_date: 2018-05-07 14:59:43
 ---
@@ -29,4 +29,4 @@ post_date: 2018-05-07 14:59:43
  	<li><b> </b><b><span style="color: #ff0000;">Positiver prix =&gt; Page Employeur toujours offerte (Valeur 753 € HT)</span>.</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Pour multiplier vos apports en CV, vous pouvez agir sur la position de vos offres d’emploi dans le listing en utilisant des remontées en tête de liste, vous connaissez le principe ?</i></b></span>
-<p style="text-align: right;">[maxbutton id="3" url="http://192.168.191.55/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
+<p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Upsell Crédits" ] [maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
