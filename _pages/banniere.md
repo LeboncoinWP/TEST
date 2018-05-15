@@ -4,7 +4,7 @@ post_title: Bannière
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://192.168.191.55/banniere/
+permalink: http://cms1.leboncoin.loc/banniere/
 published: true
 post_date: 2018-04-27 11:11:10
 ---
@@ -15,7 +15,7 @@ post_date: 2018-04-27 11:11:10
 
 <a href="/wp-content/uploads/2018/05/Bann1.png"><img class="aligncenter size-full wp-image-491" src="/wp-content/uploads/2018/05/Bann1.png" alt="" width="1594" height="481" /></a>
 
-[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#banniere" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1.leboncoin.loc/modalites-techniques/#banniere" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
@@ -31,8 +31,9 @@ post_date: 2018-04-27 11:11:10
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Maîtrise du budget avec affichage garantie et facturation au réel.</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
-<p style="text-align: right;">[maxbutton id="3" url="http://192.168.191.55/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
-<p style="text-align: right;">[maxbutton id="5" url="http://192.168.191.55/repli_upsell-credits/" text="Repli Crédits" ]</p>
+<p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
+<p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/box/" text="BOX" ]</p>
+<p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Repli Crédits" ]</p>
 &nbsp;
 
 &nbsp;
@@ -47,7 +48,7 @@ post_date: 2018-04-27 11:11:10
 
 <a href="/wp-content/uploads/2018/05/bann_bus1.png"><img class="aligncenter size-full wp-image-492" src="/wp-content/uploads/2018/05/bann_bus1.png" alt="" width="1595" height="457" /></a>
 
-[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#banniere" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1.leboncoin.loc/modalites-techniques/#banniere" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
