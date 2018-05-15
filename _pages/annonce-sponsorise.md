@@ -43,7 +43,7 @@ post_date: 2018-04-27 11:08:52
 
 <span style="color: #ff6600; font-size: 14pt;"><b><i>Comme vous avez pour objectif de communication</i></b></span>
 
-&nbsp;
+<a href="http://cms1.leboncoin.loc/wp-content/uploads/2018/05/Ann_Spo_Emp_bis1.png"><img class="aligncenter size-full wp-image-655" src="http://cms1.leboncoin.loc/wp-content/uploads/2018/05/Ann_Spo_Emp_bis1.png" alt="" width="1594" height="482" /></a>
 
 [maxbutton id="2" url="http://cms1.leboncoin.loc/modalites-techniques/#as" text="Modalités techniques" ]
 
