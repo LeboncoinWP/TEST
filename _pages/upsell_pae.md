@@ -1,15 +1,14 @@
 ---
 ID: 532
-post_title: La PAE En Emploi
+post_title: Le PAE En Emploi
 author: admin
 post_excerpt: ""
 layout: page
-permalink: >
-  http://cms1-dev.leboncoin.loc/upsell_pae/
+permalink: http://cms1.leboncoin.loc/upsell_pae/
 published: true
 post_date: 2018-05-07 14:59:43
 ---
-<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;">La PAE En Emploi</span></p>
+<p style="text-align: center;"><span style="font-size: 24pt; color: #333399;">Le PAE En Emploi</span></p>
 &nbsp;
 
 <span style="color: #ff6600;"><b><i>Et je me rends compte qu’il vous faut encore des jetons par rapport à vos besoins</i></b></span>
@@ -30,4 +29,4 @@ post_date: 2018-05-07 14:59:43
  	<li><b> </b><b><span style="color: #ff0000;">Positiver prix =&gt; Page Employeur toujours offerte (Valeur 753 € HT)</span>.</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Pour multiplier vos apports en CV, vous pouvez agir sur la position de vos offres d’emploi dans le listing en utilisant des remontées en tête de liste, vous connaissez le principe ?</i></b></span>
-<p style="text-align: right;">[maxbutton id="3" url="http://cms1-dev.leboncoin.loc/repli_upsell-credits/" text="Upsell Crédits" ] [maxbutton id="3" url="http://cms1-dev.leboncoin.loc/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
+<p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Upsell Crédits" ] [maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-accord-pae/" text="Modalités Accord PAE/Crédits" ]</p>
