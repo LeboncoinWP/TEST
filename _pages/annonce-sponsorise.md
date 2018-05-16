@@ -35,7 +35,7 @@ post_date: 2018-04-27 11:08:52
 <p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Repli Crédits" ] [maxbutton id="5" url="http://cms1.leboncoin.loc/modalite-signature-elec/" text="Modalités Accord" ]</p>
 &nbsp;
 
-&nbsp;
+<hr />
 
 &nbsp;
 <p id="ann_spo_bus" style="text-align: center;"><b><span style="font-size: 24pt; color: #333399;">L’Annonce Sponsorisée</span></b></p>
