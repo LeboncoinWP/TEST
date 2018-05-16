@@ -4,7 +4,7 @@ post_title: Pavé
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://192.168.191.55/pave/
+permalink: http://cms1.leboncoin.loc/pave/
 published: true
 post_date: 2018-04-27 11:10:16
 ---
@@ -13,9 +13,9 @@ post_date: 2018-04-27 11:10:16
 
 <span style="color: #ff6600;"><b><i>Comme vous avez besoin de travailler votre marque employeur ou de mener une campagne de recrutement sur du court terme</i></b></span>
 
-<a href="http://192.168.191.55/wp-content/uploads/2018/05/pave1.png"><img class="aligncenter size-full wp-image-486" src="http://192.168.191.55/wp-content/uploads/2018/05/pave1.png" alt="" width="1592" height="446" /></a>
+<a href="http://cms1.leboncoin.loc/wp-content/uploads/2018/05/pave1.png"><img class="aligncenter size-full wp-image-486" src="http://cms1.leboncoin.loc/wp-content/uploads/2018/05/pave1.png" alt="" width="1592" height="446" /></a>
 
-[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#pave" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1.leboncoin.loc/modalites-techniques/#pave" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
@@ -31,9 +31,11 @@ post_date: 2018-04-27 11:10:16
  	<li><b><span style="color: #ff0000;">Positiver prix</span> =&gt; </b><b>Coût CPM + important car leads chauds dans le cœur de l’annonce concurrente, en recherche très active.</b></li>
 </ul>
 <span style="color: #ff6600;"><b><i>=&gt; Phrase de Souscription :  </i></b><b><i>Nous partons sur ce format à partir du mois prochain?</i></b></span>
-<p style="text-align: right;">[maxbutton id="3" url="http://192.168.191.55/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
-<p style="text-align: right;">[maxbutton id="5" url="http://192.168.191.55/repli_upsell-credits/" text="Repli Crédits" ]</p>
-&nbsp;
+<p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
+<p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Repli Crédits" ]</p>
+
+
+<hr />
 
 &nbsp;
 
@@ -45,7 +47,7 @@ post_date: 2018-04-27 11:10:16
 
 <a href="/wp-content/uploads/2018/05/pave_bus1.png"><img class="aligncenter size-full wp-image-487" src="/wp-content/uploads/2018/05/pave_bus1.png" alt="" width="1586" height="494" /></a>
 
-[maxbutton id="2" url="http://192.168.191.55/modalites-techniques/#pave" text="Modalités techniques" ]
+[maxbutton id="2" url="http://cms1.leboncoin.loc/modalites-techniques/#pave" text="Modalités techniques" ]
 
 <span style="text-decoration: underline;"><span style="color: #0000ff;"><strong>Preuves:</strong></span></span>
 <ul>
