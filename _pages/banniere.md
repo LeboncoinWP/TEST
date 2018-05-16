@@ -34,7 +34,9 @@ post_date: 2018-04-27 11:11:10
 <p style="text-align: right;">[maxbutton id="3" url="http://cms1.leboncoin.loc/modalites-classiques-pave-banniere-sky/" text="Modalités classique Pavé/Bannière/Sky" ]</p>
 <p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/box/" text="BOX" ]</p>
 <p style="text-align: right;">[maxbutton id="5" url="http://cms1.leboncoin.loc/repli_upsell-credits/" text="Repli Crédits" ]</p>
-&nbsp;
+
+
+<hr />
 
 &nbsp;
 
