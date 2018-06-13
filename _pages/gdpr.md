@@ -4,7 +4,8 @@ post_title: GDPR
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://cms1-dev.leboncoin.loc/gdpr/
+permalink: >
+  http://cms1-dev.leboncoin.loc/annonce-sponsorise/gdpr/
 published: true
 post_date: 2018-06-08 15:16:38
 ---
